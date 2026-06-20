@@ -1,0 +1,17 @@
+{
+  "name": "UniSwad — Authentic Indian Fasting Foods",
+  "short_name": "UniSwad",
+  "description": "Authentic Indian fasting foods — Fastinger laddu, chikki, wadi and sweet Flavour Bites.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#800000",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any"
+    }
+  ]
+}
